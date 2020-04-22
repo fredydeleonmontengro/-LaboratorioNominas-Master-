@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDatos\obj\Debug\capaDatos.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDatos\obj\Debug\capaDatos.pdb

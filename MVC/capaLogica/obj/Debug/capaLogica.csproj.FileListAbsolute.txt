@@ -1,0 +1,8 @@
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaLogica\bin\Debug\capaDatos.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaLogica\bin\Debug\capaDatos.pdb
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaLogica\obj\Debug\capaLogica.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaLogica\obj\Debug\capaLogica.csproj.CopyComplete
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaLogica\obj\Debug\capaLogica.pdb

@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\MDI_FredyDeLeon.exe.config
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\MDI_FredyDeLeon.exe
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\MDI_FredyDeLeon.pdb
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\capaDiseño.dll
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\capaDiseño.pdb
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.Form1.resources
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.Properties.Resources.resources
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.csproj.CopyComplete
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.exe
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.pdb

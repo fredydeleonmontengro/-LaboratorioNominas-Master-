@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\bin\Debug\capaDiseño.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\bin\Debug\capaDiseño.pdb
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\bin\Debug\capaLogica.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\bin\Debug\capaDatos.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\bin\Debug\capaLogica.pdb
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\bin\Debug\capaDatos.pdb
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.csproj.CopyComplete
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.dll
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.pdb
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.interfaz.resources
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.Properties.Resources.resources
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.csproj.GenerateResource.cache

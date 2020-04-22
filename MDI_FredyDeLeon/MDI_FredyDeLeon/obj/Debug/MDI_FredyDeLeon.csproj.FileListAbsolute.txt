@@ -10,3 +10,7 @@ C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\M
 C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.csproj.CopyComplete
 C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.exe
 C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\obj\Debug\MDI_FredyDeLeon.pdb
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\capaLogica.dll
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\capaDatos.dll
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\capaLogica.pdb
+C:\Users\dell\Desktop\contenedor MDI\MDI_FredyDeLeon\MDI_FredyDeLeon\bin\Debug\capaDatos.pdb

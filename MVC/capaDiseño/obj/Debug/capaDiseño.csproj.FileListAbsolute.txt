@@ -11,3 +11,8 @@ C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.pdb
 C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.interfaz.resources
 C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.Properties.Resources.resources
 C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.Mantenimientos.Frm_agregarConceptos.resources
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.Mantenimientos.Frm_agregarDepartamentos.resources
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.Mantenimientos.Frm_agregarEmpleados.resources
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.Mantenimientos.Frm_agregarPuestos.resources
+C:\Users\dell\Desktop\contenedor MDI\MVC\capaDiseño\obj\Debug\capaDiseño.Procesos.Frm_Nomina.resources
